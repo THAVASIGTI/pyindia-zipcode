@@ -7,11 +7,11 @@ with open(path.join(this_directory, 'README.md'), encoding='utf-8') as f:
 
 setuptools.setup(
     name="pyindia_zipcode",
-    version="0.0.1",
+    version="0.0.2",
     author="T.THAVASI GTI",
     license="MIT",
     author_email="ganeshanthavasigti1032000@gmail.com",
-    description="Indian Post office zip code Information",
+    description="Find Post Office Details from PinCode, All India Post Office Pincode Data",
     long_description=long_description,
     long_description_content_type="text/markdown",
     project_urls={
